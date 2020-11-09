@@ -373,3 +373,13 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ecb807 !important;
 }
+
+/*!
+ * Custom Style
+ * 
+ * 
+ */
+
+ .white_text{
+  color: #fff !important;
+ }
